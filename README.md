@@ -2,7 +2,7 @@
 
 This is the repo for the Qt Design Studio - Fundamental Concepts course on Qt Academy.
 
-> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q=qt+quick#introduction-to-qt-quick)
+> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q=#fundamental-concepts-in-qt-design-studio)
 
 ## 🎯 What You'll Learn
 
@@ -28,7 +28,8 @@ Once you have Qt and an Qt Design Studio installed, head over to Qt Academy and 
 
 To run the project, navigate to the folder in Qt Design Studio and open the `Demo2.qmlproject` file. Build and run the project in Qt Design Studio. The application will launch and you will see the application at that current stage.
 
-# Resouces
+# Resources
+
 If you need additional help, the following resources may be helpful:
 
 - Qt Documentation: https://doc.qt.io
@@ -49,5 +50,3 @@ This is a Qt Quick learning project demonstrating how to set up your project, cr
 If you, your employer, or the legal entity you act on behalf of hold commercial license(s) with a Qt Group entity, this software package constitutes Pre-Release Code under the Qt License/Frame Agreement governing those licenses, and that agreement's terms and conditions govern your access and use of this software package.
 
 This software package may provide links or access to third party libraries or code (collectively "Third-Party Software") to implement various functions. Use or distribution of Third-Party Software is discretionary and in all respects subject to applicable license terms of applicable third-party right holders.
-
-
